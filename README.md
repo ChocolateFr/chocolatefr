@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hosein Erish</h1>
-<h3 align="center">A passionate fdeveloper from Iran</h3>
+<h3 align="center">A passionate developer from Iran</h3>
 
 - 👨‍💻 All of my projects are available at [hoseinerish.ir](hoseinerish.ir)
 
