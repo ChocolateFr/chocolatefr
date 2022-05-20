@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **thehoseinerish@gmail.com**
 
-- ⚡ Fun fact **I'm Love Banana Milk**
+- ⚡ Fun fact **I Love Banana Milk**
 
 
 <p align="left">
