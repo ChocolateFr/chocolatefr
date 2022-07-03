@@ -15,7 +15,7 @@ I'm a teenager programmer from Iran
 🔭&nbsp;I’m currently working on Drexxine **Something good💁‍♂️**
 <br/>🎓&nbsp;Graduated from **YouTube😁**
 <br/>🌱&nbsp;Learning about **DJango**
-<br/>💡&nbsp;I'm interested about **AI**
+<br/>💡&nbsp;I'm interested about **Web**
 <br/>💬&nbsp;Ask me about **cleaner coding**
 <br/>🤝&nbsp;I like to collaborate in **Nothing 😁**
 <br/>😄&nbsp;Pronouns **He**
