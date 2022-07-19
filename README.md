@@ -20,7 +20,7 @@ I'm a teenager programmer from Iran
 <br/>🤝&nbsp;I like to collaborate in **Nothing 😁**
 <br/>😄&nbsp;Pronouns **He**
 <br/>⚡&nbsp;Fun fact **I'm big fan of Banana Milk**
-<br/>💁&nbsp;♂️reach me on [thehoseinerish@gmail.com](mailto:thehoseinerish@gmail.com)
+<br/>💁&nbsp;♂️reach me on [hosein@erish.xyz](mailto:hosein@erish.xyz)
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Android-05122A?style=flat&logo=android" alt="android Badge" height="25">&nbsp;
