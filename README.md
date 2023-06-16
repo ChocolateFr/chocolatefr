@@ -36,7 +36,7 @@ I'm a teenager programmer from Iran
 
 ## GitHub Analytics
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoseinerish&theme=tokyonight&show_icons=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinerish&theme=tokyonight&layout=compact&langs_count=5">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hoseinerish&theme=tokyonight">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erillia&theme=tokyonight&show_icons=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erillia&theme=tokyonight&layout=compact&langs_count=5">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=erillia&theme=tokyonight">
 </div>
