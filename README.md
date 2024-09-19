@@ -1,16 +1,16 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Chocolate and I'm a full stack developer</h2>
+<h2 align="center">Hi 👋! My name is Chocolate and I'm a full stack developer</h2>
 
 ###
 
-<div>
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=chocolatefr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
