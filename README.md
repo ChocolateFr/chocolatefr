@@ -44,7 +44,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/chocolatelovesyou/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/chocolatefr/count.svg?"  />
 </div>
 
 ###
