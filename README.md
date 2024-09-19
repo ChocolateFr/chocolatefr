@@ -43,7 +43,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://profile-counter.glitch.me/chocolatelovesyou/count.svg?"  />
 </div>
 
